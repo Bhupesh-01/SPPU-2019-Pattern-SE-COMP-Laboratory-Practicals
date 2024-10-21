@@ -14,7 +14,7 @@ all the data member values
 */
 
 #include<iostream>
-#program by Narendra Dwivedi Intel 20U520
+
 #include<string>
 using namespace std;
 //base class publication
@@ -158,8 +158,7 @@ case 4:
  }
 case 5:
  {
- cout<<"**********Program Exited
-Successfully**********"<<endl;
+ cout<<"**********Program Exited Successfully**********"<<endl;
 exit(0);
 
  }

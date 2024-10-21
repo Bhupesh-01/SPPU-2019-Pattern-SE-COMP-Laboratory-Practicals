@@ -1,5 +1,5 @@
 /*
-Write a function template for selection sort that inputs, sorts and outputs an integer array and
+B5 : Write a function template for selection sort that inputs, sorts and outputs an integer array and
 a float array.
 */
 
